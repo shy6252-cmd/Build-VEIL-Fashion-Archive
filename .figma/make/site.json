@@ -1,0 +1,10 @@
+{
+  "description": "Explore VEIL’s immersive fashion archive, featuring interactive project galleries and detailed presentations of research, design concepts, and visual merchandising.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
